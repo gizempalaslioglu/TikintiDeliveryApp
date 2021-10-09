@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/icn_anasayfa" />
+    <item
+        android:id="@+id/sepetFragment"
+        android:icon="@drawable/icn_sepet" />
+    <item
+        android:enabled="false"
+        android:title="Item"
+        android:visible="true" />
+    <item
+        android:id="@+id/kuponFragment"
+        android:icon="@drawable/voucher" />
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/icn_profil" />
+</menu>
